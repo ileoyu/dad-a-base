@@ -1,3 +1,7 @@
 # quotes
 
-Bunch of quotes to demostrate DOM manipulation and eventlistener 
+Where do dads store their dad jokes? 
+
+a dad-a-base -- turnt website to learn DOM manipulation and eventlistener 
+
+enjoy.

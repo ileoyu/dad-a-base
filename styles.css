@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Lato', sans-serif;
+    letter-spacing: 0.05rem;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    text-align: left;
+    background: #000000;
+    color: #f7f5f7;
+}
+
+.container {
+    width: 25em;
+    height: auto;
+    user-select: none;
+}
+
+
+.main-content .text-area {
+    font-size: 1.3rem;
+    font-weight: 600;
+    line-height: 1.2;
+}
+
+.main-content .punchline {
+    font-weight: 300;
+    font-size: 1.3rem;
+    margin-top: 1em;
+    font-style: italic;
+}
+
+#button {
+    cursor: pointer;
+}
+    
